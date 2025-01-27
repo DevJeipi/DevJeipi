@@ -1,6 +1,6 @@
 ## Welcome to the profile of João Pedro Hubner Ghilardi 😁
-# I like to learn and study new technologies!
-# I run my own business, but free to new experiences!
+# 📕 - I like to learn and study new technologies!
+# 💼 - I run my own business, but free to new experiences!
 
  <div>
    <a href="https://github.com/DevJeipi">
